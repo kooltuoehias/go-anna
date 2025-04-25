@@ -1,3 +1,3 @@
 # go-anna
 
-`go run main`
+`go run main.go`
