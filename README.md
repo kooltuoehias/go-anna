@@ -1,3 +1,3 @@
-# go-anna
+# go-salt
 
 `go run main.go`
